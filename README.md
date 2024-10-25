@@ -154,10 +154,4 @@ npm test -- --verbose
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 Let me know if there’s any other content you'd like to add!
